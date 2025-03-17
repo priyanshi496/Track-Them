@@ -18,6 +18,17 @@ Track-Them is a Python-based missing persons tracking system that helps in repor
    git clone https://github.com/priyanshi496/Track-Them.git
 2. pip install qrcode[pil] yagmail pillow
 3. python track_them.py
-
+## Dependencies
+Python 3.x
+qrcode for QR code generation
+yagmail for sending emails
+Pillow for handling images
+webbrowser for Google Maps integration
+## Usage
+1. Run the script and follow the on-screen instructions.
+2. To report a missing person, enter their details including an image.
+3. An email alert will be sent to the authorities.
+4. Search and update missing persons’ statuses as needed.
+5. Generate QR codes and view last-seen locations on Google Maps.
 
    
